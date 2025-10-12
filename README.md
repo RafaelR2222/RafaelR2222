@@ -93,8 +93,9 @@
 </div>
 
 ###
-
-<img align="center" height="320" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
+<div align="center">
+  <img height="320" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelR2222/RafaelR2222/output/github-contribution-grid-snake-dark.svg">
