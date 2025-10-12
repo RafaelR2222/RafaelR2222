@@ -130,11 +130,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
-
-
-
-<hr>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelR2222/RafaelR2222/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelR2222/RafaelR2222/output/github-contribution-grid-snake-dark.svg">
