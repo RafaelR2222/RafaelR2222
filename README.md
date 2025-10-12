@@ -64,7 +64,18 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="33" />
 </div>
 
-#
+###
+
+<div align="left">
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=#023859&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#26658c&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=#54acbf&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=#011c40&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=#a7ebf2&logoColor=#011c40&style=for-the-badge" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=#023859&logoColor=white&style=for-the-badge" height="30" /></a>
+</div>
+
+###
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
