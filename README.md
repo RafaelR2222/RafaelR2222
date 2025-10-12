@@ -96,12 +96,12 @@
 <div align="center">
   <img height="320" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
 </div>
-<img align="right" height="320" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelR2222&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center" justify="space-between">
+  <img align="right" height="320" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
+  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelR2222&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
