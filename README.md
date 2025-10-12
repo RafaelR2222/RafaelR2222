@@ -15,9 +15,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-
-#
+# Connect with me!
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
