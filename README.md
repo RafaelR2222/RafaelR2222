@@ -6,14 +6,14 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-###
+--
 
 <p align="center">
 Formado em Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (Unoeste-FIPP). Atualmente atuo como desenvolvedor fullstack.  
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
-###
+--
 
 ###
 
