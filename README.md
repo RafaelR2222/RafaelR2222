@@ -92,7 +92,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 ---
 
-<img align="right" height="276" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" alt="Coding GIF" style="border-radius:10px; margin-left:15px;" />
+<img align="right" height="276" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" alt="Coding GIF" />
 
 ---
 
