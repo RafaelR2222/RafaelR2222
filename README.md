@@ -6,7 +6,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
----
 
 <p align="center">
 Formado em Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (Unoeste-FIPP). Atualmente atuo como desenvolvedor fullstack.  
@@ -15,7 +14,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 ---
 
-###
+---
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelR2222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -24,13 +23,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelR2222&theme=tokyo-night&area=true&hide_border=false&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img align="right" height="291" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
 
-###
+---
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="33" alt="adobeillustrator logo"  />
@@ -42,7 +41,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://skillicons.dev/icons?i=xd" height="33" alt="xd logo"  />
 </div>
 
-###
+---
 
 <div align="left">
   <h3 align="left"> Connect with me! </h3>
@@ -54,7 +53,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
 
-###
+---
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="40" alt="linkedin logo"  />
@@ -64,10 +63,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="59" height="40" alt="whatsapp logo"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RafaelR2222.RafaelR2222&left_color=darkblue&right_color=deepskyblue&left_text=People%20who%20visited"  />
 </div>
 
-###
+---
