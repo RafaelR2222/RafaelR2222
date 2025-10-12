@@ -67,12 +67,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 ###
 
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=#023859&logoColor=white&style=for-the-badge" height="30" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#26658c&logoColor=white&style=for-the-badge" height="30" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=#54acbf&logoColor=white&style=for-the-badge" height="30" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=#011c40&logoColor=white&style=for-the-badge" height="30" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=#a7ebf2&logoColor=#011c40&style=for-the-badge" height="30" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=#023859&logoColor=white&style=for-the-badge" height="30" /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" />
 </div>
 
 ###
