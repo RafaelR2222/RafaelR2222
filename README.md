@@ -93,10 +93,8 @@
 </div>
 
 ###
-<br>
-<br>
-<br>
-<img align="right" height="260" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
+
+<img align="right" height="360" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
 
 ###
 <h3 align="left">Connect with me!</h3>
