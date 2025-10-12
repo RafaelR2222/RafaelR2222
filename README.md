@@ -1,4 +1,4 @@
-<h3 align="left">Hi my name is Rafael Ribeiro and this is my profile, Thank you for visiting.</h3>
+<h3 align="center">Hi my name is Rafael Ribeiro and this is my profile, Thank you for visiting.</h3>
 
 ###
 
