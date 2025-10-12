@@ -47,8 +47,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="33" />
 </div>
 
----
-
 # Backend
 
 <div align="left">
@@ -64,8 +62,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="33" />
 </div>
 
----
-
 # Tools
 
 <div align="left">
@@ -78,8 +74,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="33" />
   <img width="8" />
 </div>
-
----
 
 # OS / Environment
 
