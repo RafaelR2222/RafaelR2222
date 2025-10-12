@@ -25,7 +25,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
-#
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <h3 align="left"> Frontend! </h3>
 
 <div align="left">
@@ -44,7 +45,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="33" />
 </div>
-#
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <h3 align="left"> Backend! </h3>
 
 <div align="left">
@@ -59,7 +61,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="33" />
 </div>
-#
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <h3 align="left"> Tools! </h3>
 
 <div align="left">
@@ -73,7 +76,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
 </div>
 
-#
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
 
