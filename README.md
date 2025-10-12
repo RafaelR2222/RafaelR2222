@@ -98,13 +98,6 @@
 </div>
 
 ###
-
-<div align="center" justify="space-between">
-  <img align="right" height="320" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
-  <img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelR2222&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelR2222/RafaelR2222/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelR2222/RafaelR2222/output/github-contribution-grid-snake-dark.svg">
