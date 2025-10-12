@@ -77,10 +77,12 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelR2222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelR2222&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=RafaelR2222&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelR2222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelR2222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=RafaelR2222&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
