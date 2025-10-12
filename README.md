@@ -6,7 +6,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<hr>
 
 <p align="center">
   Formado em Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (Unoeste-FIPP).  
