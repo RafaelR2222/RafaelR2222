@@ -15,7 +15,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-# Connect with me!
+<h3 align="left"> Connect with me! </h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
@@ -26,7 +26,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
 
-# Frontend
+<h3 align="left"> Frontend! </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" />
@@ -45,7 +45,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="33" />
 </div>
 
-# Backend
+<h3 align="left"> Backend! </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="33" />
@@ -60,7 +60,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="33" />
 </div>
 
-# Tools
+<h3 align="left"> Tools! </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="33" />
@@ -73,11 +73,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
 </div>
 
-# OS / Environment
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="33" />
-</div>
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
