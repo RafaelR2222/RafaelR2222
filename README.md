@@ -1,4 +1,19 @@
-<h3 align="left">Hi my name is Rafael Ribeiro and this is my profile, Thank you for visiting.</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=011C40&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.gif">
+
+###
+
+<p align="center">
+Formado em Análise e Desenvolvimento de Sistemas na Universidade do Oeste Paulista (Unoeste-FIPP). Atualmente atuo como desenvolvedor fullstack.  
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+</p>
+
+###
 
 ###
 
