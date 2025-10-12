@@ -94,12 +94,7 @@
 
 ###
 
-<img style="
-    max-width: 100%;
-    height: auto;
-    max-height: 331px;
-    margin-top: 5.4rem;
-    display: inline-block;" align="right" height="260" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
+<img align="right" height="260" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
 
 ###
 <h3 align="left">Connect with me!</h3>
